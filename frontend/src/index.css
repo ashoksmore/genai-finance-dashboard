@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:
+    'Segoe UI',
+    system-ui,
+    -apple-system,
+    sans-serif;
+  background: #0c1117;
+  color: #e6edf3;
+  line-height: 1.5;
+}
+
+#root {
+  min-height: 100vh;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 2.5rem;
+}
+
+a {
+  color: #7eb8ff;
+}
