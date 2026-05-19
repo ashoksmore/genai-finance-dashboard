@@ -1,0 +1,17 @@
+period,department,category,budget,actual
+2024-10,Finance,audit,45000,44200
+2024-10,Operations,facilities,120000,118500
+2024-10,Legal,retainer,80000,79500
+2024-11,Finance,audit,45000,46800
+2024-11,Operations,facilities,125000,131000
+2024-11,IT,cloud,95000,102000
+2024-12,Finance,audit,50000,48900
+2024-12,Operations,facilities,130000,127200
+2024-12,IT,cloud,100000,98300
+2024-12,Legal,retainer,85000,87200
+2025-07,Engineering,r_and_d,420000,405000
+2025-07,Product,design,180000,192000
+2025-07,CustomerSuccess,support,95000,91000
+2025-08,Engineering,r_and_d,420000,438000
+2025-08,Product,design,185000,181000
+2025-08,Sales,events,75000,82000
