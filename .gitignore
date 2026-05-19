@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python backend
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+
+# Local databases and runtime artifacts
+*.db
+backend/uploads/
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Local environment files
+.env
+backend/.env
+frontend/.env
