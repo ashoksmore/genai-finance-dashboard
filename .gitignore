@@ -19,3 +19,6 @@ frontend/dist/
 .env
 backend/.env
 frontend/.env
+
+# Local reference notes (not part of the app)
+resources/
